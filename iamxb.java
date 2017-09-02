@@ -8,6 +8,8 @@ public class iamxb {
     public void version()
     {
         //感谢关注
+        String cloudits;
+           cloudits="https://www.cloudits.info";
     }
 
 
